@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\PrimeFactorKATA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75BF25ED-BD27-4447-9D36-B3A1DAF6043C}|PrimeFactorKATA\\PrimeFactorKATA.vcxproj|C:\\Users\\User\\source\\repos\\PrimeFactorKATA\\PrimeFactorKATA\\prime-factors_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{75BF25ED-BD27-4447-9D36-B3A1DAF6043C}|PrimeFactorKATA\\PrimeFactorKATA.vcxproj|solutionrelative:PrimeFactorKATA\\prime-factors_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75BF25ED-BD27-4447-9D36-B3A1DAF6043C}|PrimeFactorKATA\\PrimeFactorKATA.vcxproj|C:\\Users\\User\\source\\repos\\PrimeFactorKATA\\PrimeFactorKATA\\prime-factors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{75BF25ED-BD27-4447-9D36-B3A1DAF6043C}|PrimeFactorKATA\\PrimeFactorKATA.vcxproj|solutionrelative:PrimeFactorKATA\\prime-factors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF25ED-BD27-4447-9D36-B3A1DAF6043C}|PrimeFactorKATA\\PrimeFactorKATA.vcxproj|C:\\Users\\User\\source\\repos\\PrimeFactorKATA\\PrimeFactorKATA\\prime-factors_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75BF25ED-BD27-4447-9D36-B3A1DAF6043C}|PrimeFactorKATA\\PrimeFactorKATA.vcxproj|solutionrelative:PrimeFactorKATA\\prime-factors_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75BF25ED-BD27-4447-9D36-B3A1DAF6043C}|PrimeFactorKATA\\PrimeFactorKATA.vcxproj|C:\\Users\\User\\source\\repos\\PrimeFactorKATA\\PrimeFactorKATA\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "prime-factors_test.cpp",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PrimeFactorKATA\\PrimeFactorKATA\\prime-factors_test.cpp",
               "RelativeDocumentMoniker": "PrimeFactorKATA\\prime-factors_test.cpp",
@@ -62,13 +62,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "prime-factors.cpp",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PrimeFactorKATA\\PrimeFactorKATA\\prime-factors.cpp",
               "RelativeDocumentMoniker": "PrimeFactorKATA\\prime-factors.cpp",
               "ToolTip": "C:\\Users\\User\\source\\repos\\PrimeFactorKATA\\PrimeFactorKATA\\prime-factors.cpp",
               "RelativeToolTip": "PrimeFactorKATA\\prime-factors.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-02T00:10:12.492Z",
               "EditorCaption": ""
